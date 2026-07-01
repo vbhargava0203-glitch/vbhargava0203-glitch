@@ -1,6 +1,13 @@
+
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/221/221968.gif" alt="Cyber Banner" width="50%" />
+  <img src="https://giffiles.alphacoders.com/221/221968.gif" alt="Cyber GIF 1" width="35%" />
+  <img src="https://giffiles.alphacoders.com/218/218965.gif" alt="Cyber GIF 2" width="35%" />
 </p>
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm BHARGAVA VAGATHURI</h1>
 <h3 align="center">💻 Full-Stack Developer | Cybersecurity Enthusiast | Building Real-World Projects</h3>
