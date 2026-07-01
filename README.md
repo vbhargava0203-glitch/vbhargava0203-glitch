@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm BHARGAVA VAGATHURI</h1>
 <h3 align="center">💻 Full-Stack Developer | Cybersecurity Enthusiast | Building Real-World Projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vbhargava0203-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="vbhargava0203-glitch" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vbhargava0203-glitch" alt="vbhargava0203-glitch" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bhargavabuilds" target="blank"><img src="https://img.shields.io/twitter/follow/bhargavabuilds?logo=twitter&style=for-the-badge" alt="bhargavabuilds" /></a> </p>
 
 - 🔭 I’m currently working on **AI-Powered Full-Stack Portfolio Website**
