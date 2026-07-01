@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm BHARGAVA VAGATHURI</h1>
 <h3 align="center">💻 Full-Stack Developer | Cybersecurity Enthusiast | Building Real-World Projects</h3>
 
+<img align="right" alt="Coding" width="400" src="https://pin.it/7GWm8ADBH">
+
 <p align="left"> <a href="https://twitter.com/bhargavabuilds" target="blank"><img src="https://img.shields.io/twitter/follow/bhargavabuilds?logo=twitter&style=for-the-badge" alt="bhargavabuilds" /></a> </p>
 
 - 🔭 I’m currently working on **AI-Powered Full-Stack Portfolio Website**
