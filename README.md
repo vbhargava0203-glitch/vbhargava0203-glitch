@@ -1,19 +1,9 @@
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/221/221968.gif" alt="Cyber Banner" width="50%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm BHARGAVA VAGATHURI</h1>
 <h3 align="center">💻 Full-Stack Developer | Cybersecurity Enthusiast | Building Real-World Projects</h3>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <p align="left"> <a href="https://twitter.com/bhargavabuilds" target="blank"><img src="https://img.shields.io/twitter/follow/bhargavabuilds?logo=twitter&style=for-the-badge" alt="bhargavabuilds" /></a> </p>
 
