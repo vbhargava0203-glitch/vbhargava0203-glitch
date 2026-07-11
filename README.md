@@ -62,6 +62,6 @@
 </p>
 
 
-<img width="1157" height="1359" alt="ChatGPT Image Jul 11, 2026, 12_16_02 PM" src="https://github.com/user-attachments/assets/7b18e8fa-409a-422c-ad39-506526aa3a1c" />
+
 
 
