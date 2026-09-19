@@ -1,184 +1,444 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2afadf&height=260&section=header&text=BHARGAVA%20VAGATHURI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Full-Stack%20Developer%20%E2%9A%94%EF%B8%8F%20Cybersecurity%20Enthusiast&descAlignY=52&descSize=19" width="100%"/>
+# BHARGAVA VAGATHURI
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+**COMPUTER SCIENCE ENGINEER**
+SOFTWARE · AI · DATA · SECURITY
 
-<a href="https://www.linkedin.com/in/bhargava-vagathuri202529/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+root%40bhargava%3A~%23+access_granted;Full-Stack+Developer;Cybersecurity+Enthusiast;Breaking+code+is+fun%2C+securing+it+is+better;Always+Shipping+%E2%9A%A1&font=Fira+Code&center=true&width=720&height=50&color=2AFADF&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
-</a>
-
-<a href="https://bhargavavagathuri.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/bhargava-vagathuri202529/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/bhargavabuilds" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Status-Open_to_Work-ff0080?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vbhargava0203-glitch&style=for-the-badge&color=2afadf&labelColor=0d1117&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/vbhargava0203-glitch?style=for-the-badge&color=ff0080&labelColor=0d1117)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bhargavabuilds?style=for-the-badge&logo=twitter&color=7928ca&labelColor=0d1117)](https://twitter.com/bhargavabuilds)
-![MIT License](https://img.shields.io/badge/License-MIT-2afadf?style=for-the-badge&labelColor=0d1117)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+Engineering systems that turn ambiguous problems into working software — across the web, data, and security layers.
 
 </div>
 
-```bash
-┌──(bhargava㉿github)-[~]
-└─$ ./boot_sequence.sh
-
-[ OK ] Initializing kernel .......................... done
-[ OK ] Mounting /dev/full-stack ..................... done
-[ OK ] Mounting /dev/cybersecurity ................... done
-[ OK ] Loading AI/LLM modules ........................ done
-[ OK ] Establishing encrypted uplink ................. done
-[ OK ] Access granted. Welcome, operator.
-
-┌──(bhargava㉿github)-[~]
-└─$ whoami
-> full-stack developer | cybersecurity enthusiast | builder of real things
-
-┌──(bhargava㉿github)-[~]
-└─$ cat mission.txt
-> "Breaking code is fun. Securing it is even better."
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-### 🧬 `neofetch` — About Me
-
 ```text
-bhargava@github.dev
-────────────────────────────────────────
-OS:            Full-Stack-Developer OS
-Host:          bhargavavagathuri.netlify.app
-Kernel:        Cybersecurity-Enthusiast 6.9-LTS
-Uptime:        since first commit
-Shell:         bash / zsh
-Currently:     🔭 building an AI-Powered Full-Stack Portfolio Website
-Learning:      Next.js, TypeScript, Docker, AWS, Cybersecurity, AI/LLMs
-Collab:        Open Source Web Dev & AI Projects
-Ask me about:  JavaScript, React, Node.js, Cybersecurity, AI, Git & GitHub
-Fun fact:      Breaking code is fun, securing it is even better 🔐
-Contact:       linkedin.com/in/bhargava-vagathuri202529
-────────────────────────────────────────
+┌───────────────────────────────────────────────┐
+│ SYSTEM STATUS                                  │
+├───────────────────────────────────────────────┤
+│ ROLE        CSE STUDENT / BUILDER              │
+│ FOCUS       AI · WEB · DATA · SECURITY         │
+│ STATUS      BUILDING                           │
+│ LOCATION    INDIA                              │
+│ CURRENT     ENGINEERING MODE                   │
+└───────────────────────────────────────────────┘
 ```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-### 🛰️ `nmap -sV opportunities.exe`
-
-```text
-Starting scan on target: CAREER_GROWTH
-PORT      STATE    SERVICE
-3000/tcp  open     react-frontend
-5000/tcp  open     node-backend
-5432/tcp  open     postgresql
-8501/tcp  open     streamlit-dashboard
-9999/tcp  open     cybersecurity-research
-
-Scan complete: 5 services open. Target is highly collaborative.
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-### 🧠 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,py,swift,html,css,nextjs,nodejs,android,flutter,mongodb,mysql,azure,docker,git,github,vscode,linux,bash&theme=dark&perline=11" />
-</p>
 
 <div align="center">
 
-| Category | Stack |
+`[ IDENTITY ]` → `[ CAPABILITIES ]` → `[ PROJECTS ]` → `[ ARCHITECTURE ]` → `[ PROBLEMS ]` → `[ LEARNING ]` → `[ ACTIVITY ]` → `[ CONTACT ]`
+
+</div>
+
+---
+
+## Recruiter Snapshot
+
+| Signal | Details |
 |---|---|
-| 🖥️ Languages | C · C++ · Java · JavaScript · PHP · Python · Swift |
-| 🎨 Frontend | HTML5 · CSS3 · Next.js · Bootstrap |
-| ⚙️ Backend | Node.js |
-| 📱 Mobile | Android · Flutter |
-| 🗄️ Databases | MongoDB · MySQL |
-| ☁️ Cloud & DevOps | Azure · Docker |
-| 🛡️ Systems | Linux · Bash · Git · GitHub |
+| Education | B.Tech CSE — Sai University |
+| Primary Languages | C, Python, JavaScript, SQL |
+| Development | Full-stack / Web |
+| AI | AI engineering / ML exploration |
+| Data | PostgreSQL / data engineering |
+| Security | Ethical hacking / web security |
+| Current Focus | Building technically challenging systems |
+| Links | [Portfolio](https://bhargavavagathuri.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/bhargava-vagathuri202529/) · [GitHub](https://github.com/vbhargava0203-glitch) |
 
-</div>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+## About the Engineer
 
-### 📌 Featured Builds
+Software is treated here as a stack of layers, each solving a different class of problem — from raw computation to the way a system is finally experienced and maintained.
 
-<div align="center">
-  <a href="https://github.com/vbhargava0203-glitch/AI-Engineering-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vbhargava0203-glitch&repo=AI-Engineering-Intelligence&theme=synthwave&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/vbhargava0203-glitch/CartShare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vbhargava0203-glitch&repo=CartShare&theme=synthwave&hide_border=true&bg_color=0d1117" />
-  </a>
-  <br/>
-  <a href="https://github.com/vbhargava0203-glitch/snake-arcade-remastered">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vbhargava0203-glitch&repo=snake-arcade-remastered&theme=synthwave&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
+```text
+Algorithm
+   ↓
+Data
+   ↓
+Backend
+   ↓
+API
+   ↓
+Interface
+   ↓
+Deployment
+   ↓
+User
+```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+Most projects below are built by moving through this stack deliberately: designing the algorithm and data model before the interface, and treating deployment and observation as part of the engineering process rather than an afterthought.
 
-### 📊 Live System Metrics
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vbhargava0203-glitch&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbhargava0203-glitch&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" width="30%" />
-</div>
+## Engineering Stack Matrix
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbhargava0203-glitch&theme=synthwave&hide_border=true&background=0d1117" width="70%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vbhargava0203-glitch&theme=synthwave&hide_border=true&bg_color=0d1117" width="90%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vbhargava0203-glitch&theme=discord&no-frame=true&row=1&column=7&margin-w=8" width="90%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-### 🐍 Contribution Snake
+| Layer | Technologies |
+|---|---|
+| Languages | C, Python, JavaScript, SQL |
+| Frontend | HTML, CSS, React, Three.js |
+| Backend | Node.js, Flask, REST APIs |
+| Data | PostgreSQL, MongoDB, Pandas, NumPy |
+| AI | AI APIs, ML concepts, AI engineering |
+| Security | Ethical hacking, web security |
+| DevOps | Git, GitHub, Netlify |
+| Tools | VS Code, Postman |
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vbhargava0203-glitch/vbhargava0203-glitch/output/github-contribution-grid-snake.svg" width="90%" />
+<img src="https://skillicons.dev/icons?i=c,python,js,react,threejs,nodejs,flask,postgres,mongodb,git,github&theme=dark" />
 </div>
 
-> 💡 Renders your real contribution graph once you add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to `vbhargava0203-glitch/vbhargava0203-glitch` — it commits this SVG on a schedule.
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+## Engineering Depth
+
+**Computer Science**
+Data Structures · Algorithms · Linear Algebra · Probability & Statistics · Databases · Computer Networks
+
+**Software Engineering**
+REST APIs · Authentication · State Management · Database Design · Modular Architecture · Deployment
+
+**AI / Data**
+Data Processing · AI APIs · Data Pipelines · Repository Intelligence · Machine Learning Concepts
+
+**Security**
+Ethical Hacking · Web Security · Network Security · Secure Development
+
+---
+
+## Featured Projects
+
+### PROJECT 01 — AI ENGINEERING INTELLIGENCE
+
+| Field | Detail |
+|---|---|
+| Problem | Engineering activity on GitHub is scattered across stars, commits, issues, and pull requests with no single signal for repository health or risk. |
+| Architecture | `GitHub API → Repository Analyzer → Feature Extraction → PostgreSQL → Analysis Engine → Streamlit Dashboard` |
+| Technologies | Python, GitHub REST API, PostgreSQL, Pandas, Scikit-learn, Plotly, Streamlit |
+| Engineering challenge | API ingestion, relational schema design across repositories/contributors/commits/PRs/issues, and turning raw metrics into a supervised risk classification. |
+| Current state | Core pipeline — collection, storage, ML risk scoring, and dashboard — is implemented. Historical trend analysis and scheduled automated collection are planned next. |
+| Repository | [github.com/vbhargava0203-glitch/AI-Engineering-Intelligence](https://github.com/vbhargava0203-glitch/AI-Engineering-Intelligence) |
+
+### PROJECT 02 — CARTSHARE
+
+| Field | Detail |
+|---|---|
+| Problem | Group shopping between roommates is coordinated over chat threads with no shared state and no fair way to split what was actually added. |
+| Architecture | `Tab A ↔ localStorage ↔ storage event ↔ Tab B` — no backend; cross-tab state sync via the browser's native storage event. |
+| Technologies | HTML, CSS, Bootstrap, vanilla JavaScript, CSS Grid/Flexbox |
+| Engineering challenge | Simulating real-time collaboration without a server, and generating an audit-ready, itemized, per-person receipt purely client-side. |
+| Current state | Implemented against the full project brief and deployed. |
+| Repository | [github.com/vbhargava0203-glitch/CartShare](https://github.com/vbhargava0203-glitch/CartShare) — [Live](https://cartshareweb.netlify.app/) |
+
+### PROJECT 03 — SVBG LABS
+
+**Synaptic Vector Brain Grid**
+
+| Field | Detail |
+|---|---|
+| Problem | Personal knowledge, skills, and engineering activity are scattered across tools with no unified system representing how they connect or evolve over time. |
+| Architecture | See diagram below. |
+| Technologies | `[ADD DATA]` |
+| Engineering challenge | Knowledge representation, modular architecture, and integrating an AI reflection layer over a personal knowledge graph. |
+| Current state | `[ADD DATA]` |
+| Repository | `[ADD_REPOSITORY_URL]` |
+
+```text
+                  SVBG LABS
+                      │
+        ┌─────────────┼─────────────┐
+        ↓             ↓             ↓
+   Identity       Knowledge      Analytics
+        │             │             │
+        ↓             ↓             ↓
+   Dashboard     Knowledge      Insights
+                  Graph
+        │             │             │
+        └─────────────┼─────────────┘
+                      ↓
+                 AI Layer
+                      ↓
+                User Interface
+```
+
+### PROJECT 04 — 3D AUTOMOTIVE EXPERIENCE
+
+| Field | Detail |
+|---|---|
+| Problem | Product visualization on the web is usually static; exploring an object's structure interactively requires a real-time rendering layer, not just images. |
+| Architecture | `3D Assets → Three.js Scene Graph → Scroll/Camera Controller → Rendered Canvas` |
+| Technologies | React, Three.js, WebGL |
+| Engineering challenge | Scroll-driven camera choreography, exploded-view assembly rendering, and keeping real-time 3D performant in the browser. |
+| Current state | `[ADD DATA]` |
+| Repository | `[ADD_REPOSITORY_URL]` |
+
+### PROJECT 05 — SNAKE ARCADE
+
+| Field | Detail |
+|---|---|
+| Problem | A constrained problem — game loop, input, and collision — used to practice frontend engineering fundamentals outside of a framework. |
+| Architecture | `Input Handler → Game State → Collision Detection → Renderer → Game Loop (requestAnimationFrame)` |
+| Technologies | JavaScript, HTML5 Canvas |
+| Engineering challenge | Deterministic game-loop timing, collision detection, and state management without a UI framework. |
+| Current state | `[ADD DATA]` |
+| Repository | [github.com/vbhargava0203-glitch/snake-arcade-remastered](https://github.com/vbhargava0203-glitch/snake-arcade-remastered) |
+
+---
+
+## Project Difficulty Signal
+
+```text
+AI Engineering Intelligence   → API ingestion + repository analysis + database design + ML classification
+CartShare                     → shared state, collaboration, and persistence with no backend
+SVBG Labs                     → knowledge representation + modular architecture + AI integration
+3D Automotive Experience      → WebGL rendering + 3D assets + interaction + performance
+Snake Arcade                  → game loop + collision detection + state management
+```
+
+---
+
+## Architecture Lab
+
+**Web Application**
+```text
+Browser
+   ↓
+React UI
+   ↓
+API
+   ↓
+Business Logic
+   ↓
+Database
+```
+
+**AI Application**
+```text
+User
+ ↓
+Application
+ ↓
+AI Layer
+ ↓
+Context / Data
+ ↓
+Processing
+ ↓
+Response
+```
+
+**Data Engineering**
+```text
+Raw Data
+ ↓
+Ingestion
+ ↓
+Cleaning
+ ↓
+Transformation
+ ↓
+Storage
+ ↓
+Analytics
+ ↓
+Visualization
+```
+
+**System Map — this README**
+
+```mermaid
+graph TD
+A[Identity] --> B[Capabilities]
+B --> C[Engineering Depth]
+C --> D[Projects]
+D --> E[Architecture]
+E --> F[Problems]
+F --> G[Learning]
+G --> H[Activity]
+H --> I[Contact]
+```
+
+---
+
+## From Idea → System
+
+```text
+IDEA
+ ↓
+PROBLEM DEFINITION
+ ↓
+SYSTEM DESIGN
+ ↓
+PROTOTYPE
+ ↓
+IMPLEMENTATION
+ ↓
+TESTING
+ ↓
+DEPLOYMENT
+ ↓
+OBSERVATION
+ ↓
+ITERATION
+```
+
+Projects here are treated as engineering experiments rather than coding assignments — each one starts from a problem statement, not a tutorial.
+
+---
+
+## Problems Worth Solving
+
+```text
+→ How can personal knowledge be represented computationally?
+
+→ How can AI reason over large software repositories?
+
+→ How can complex systems remain understandable to humans?
+
+→ How can interactive 3D interfaces become useful rather than decorative?
+
+→ How can software systems become more resilient and observable?
+
+→ How can security be incorporated into development rather than added afterward?
+
+→ How can data pipelines transform raw information into useful decisions?
+```
+
+These are open questions being explored through the projects above, not problems already solved.
+
+---
+
+────────────────────────────────────────────
+
+**BUILD → BREAK → UNDERSTAND → REBUILD**
+
+────────────────────────────────────────────
+
+---
+
+## Development Roadmap
+
+**Foundation**
+C · Python · JavaScript · DSA · Mathematics
+
+**Systems**
+Backend engineering · Databases · APIs · Networking · System design
+
+**Intelligence**
+Data engineering · Machine learning · AI engineering · Knowledge systems
+
+**Security**
+Ethical hacking · Web security · Network security · Secure architecture
+
+**Advanced**
+Distributed systems · Cloud architecture · Advanced AI systems · Open-source engineering
+
+*These are learning and building directions, not claims of expertise.*
+
+---
+
+## Current Engineering Queue
+
+```text
+┌───────────────────────────────────────────┐
+│ CURRENT ENGINEERING QUEUE                  │
+├───────────────────────────────────────────┤
+│ [01] Advanced Web Systems (Next.js, TS)    │
+│ [02] AI Engineering                        │
+│ [03] Data Engineering                      │
+│ [04] Cybersecurity                         │
+│ [05] 3D Interactive Interfaces             │
+│ [06] Algorithms                            │
+└───────────────────────────────────────────┘
+```
+
+---
+
+<details>
+<summary><strong>Open Engineering Learning Log</strong></summary>
+
+<br>
+
+**Computer Science**
+- Data structures & algorithm design
+- Operating systems fundamentals
+- Computer networks
+
+**Systems & Backend**
+- REST API design
+- Authentication & authorization patterns
+- Database design and query performance
+
+**AI / Data**
+- AI API integration patterns
+- Data pipeline design
+- Machine learning fundamentals
+
+**Security**
+- Ethical hacking fundamentals
+- Common web application vulnerabilities
+- Network security basics
+
+**Infrastructure**
+- Docker containerization
+- Cloud fundamentals (AWS / Azure)
+
+</details>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vbhargava0203-glitch&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbhargava0203-glitch&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="30%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vbhargava0203-glitch&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="70%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vbhargava0203-glitch&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&hide_border=true" width="90%" />
+</div>
+
+*Widgets are provided by third-party GitHub statistics services and reflect live public activity — no metric here is hand-entered.*
+
+---
+
+## Open Source / Collaboration
+
+Interested in contributing to:
+
+- AI tools
+- Developer tools
+- Cybersecurity
+- Data engineering
+- Open-source infrastructure
+- Experimental web technologies
+
+---
+
+## Contact Terminal
+
+```text
+$ connect bhargava
+
+LinkedIn    → https://www.linkedin.com/in/bhargava-vagathuri202529/
+GitHub      → https://github.com/vbhargava0203-glitch
+Portfolio   → https://bhargavavagathuri.netlify.app/
+Email       → [ADD_EMAIL]
+```
+
+---
 
 <div align="center">
 
-### 💬 `> fortune | cowsay --dev`
+**BUILDING SYSTEMS.**
+**UNDERSTANDING SYSTEMS.**
+**IMPROVING SYSTEMS.**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%"/>
+© 2026 Bhargava Vagathuri
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-### 🌐 `./connect.sh`
-
-<p align="center">
-<a href="https://twitter.com/bhargavabuilds" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="45" /></a>
-<a href="https://www.linkedin.com/in/bhargava-vagathuri202529/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
-<a href="https://fb.com/bhargava.vagathuri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" /></a>
-<a href="https://instagram.com/_bhgv_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" /></a>
-<a href="https://www.codechef.com/users/vbhargava2529" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="35" width="45" /></a>
-<a href="https://www.hackerrank.com/bhargavavagathuri0203" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="45" /></a>
-<a href="https://leetcode.com/bhargava1980" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" /></a>
-<a href="https://www.hackerearth.com/@bhargavavagathuri0203" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="35" width="45" /></a>
-</p>
-
-```bash
-┌──(bhargava㉿github)-[~]
-└─$ echo "connection closed. see you in the next commit."
 > process exited (0)
 ```
 
