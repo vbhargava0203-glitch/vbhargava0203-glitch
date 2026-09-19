@@ -1,8 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:1f6feb&height=190&section=header&text=BHARGAVA%20VAGATHURI&fontSize=38&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20Engineer&descAlignY=62&descSize=17&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:1f6feb&height=190&section=header&text=BHARGAVA%20VAGATHURI&fontSize=38&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20Engineer&descAlignY=62&descSize=17&descColor=8b949e" width="100%" alt="Header banner: Bhargava Vagathuri, Computer Science Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2800&pause=1400&color=58A6FF&center=true&vCenter=true&width=680&height=32&lines=SOFTWARE+%C2%B7+AI+%C2%B7+DATA+%C2%B7+SECURITY;ENGINEERING+SYSTEMS%2C+NOT+JUST+FEATURES;DESIGN+%E2%86%92+BUILD+%E2%86%92+DEPLOY+%E2%86%92+OBSERVE" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2800&pause=1400&color=58A6FF&center=true&vCenter=true&width=680&height=32&lines=SOFTWARE+%C2%B7+AI+%C2%B7+DATA+%C2%B7+SECURITY;ENGINEERING+SYSTEMS%2C+NOT+JUST+FEATURES;DESIGN+%E2%86%92+BUILD+%E2%86%92+DEPLOY+%E2%86%92+OBSERVE;ALGORITHMS+%E2%86%92+SYSTEMS+%E2%86%92+PRODUCTS;BUILDING+TO+UNDERSTAND" alt="Rotating tagline describing engineering focus areas"/>
+
+</div>
+
+<div align="center">
+
+```text
+> INITIALIZING BHARGAVA.OS
+> LOADING ENGINEERING MODULES ............ OK
+> LOADING AI MODULE ....................... OK
+> LOADING DATA SYSTEMS .................... OK
+> LOADING SECURITY MODULE ................. OK
+> LOADING PROJECT ENGINE .................. OK
+
+[ SYSTEM READY ]
+```
 
 </div>
 
@@ -11,13 +26,15 @@
 
 ```text
 ┌ SYSTEM STATUS ─────────────────────────────────┐
-  ROLE          CSE STUDENT / BUILDER
-  FOCUS         AI · WEB · DATA · SECURITY
-  STATUS        BUILDING
-  LOCATION      INDIA
-  CURRENT       ENGINEERING MODE
+  ● ROLE        CSE STUDENT / BUILDER
+  ● FOCUS       AI · WEB · DATA · SECURITY
+  ● STATUS      BUILDING
+  ● LOCATION    INDIA
+  ● MODE        ENGINEERING
 └─────────────────────────────────────────────────┘
 ```
+
+<sub>Status labels are a self-reported identity signal, not a live/real-time feed.</sub>
 
 </td></tr>
 </table>
@@ -69,6 +86,22 @@ User
 
 Most projects below are built by moving through this stack deliberately: designing the algorithm and data model before the interface, and treating deployment and observation as part of the engineering process rather than an afterthought.
 
+<div align="center">
+
+```text
+        ●──────●
+       /        \
+      ●          ●
+       \        /
+        ●──────●
+           │
+           ●
+```
+
+<sub><em>Knowledge → Algorithms → Systems → AI → Interfaces — the conceptual layer this profile is organized around.</em></sub>
+
+</div>
+
 ---
 
 ## Engineering Stack Matrix
@@ -85,7 +118,7 @@ Most projects below are built by moving through this stack deliberately: designi
 | Tools | VS Code, Postman |
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,python,js,react,threejs,nodejs,flask,postgres,mongodb,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,python,js,react,threejs,nodejs,flask,postgres,mongodb,git,github&theme=dark" alt="Row of technology icons: C, Python, JavaScript, React, Three.js, Node.js, Flask, PostgreSQL, MongoDB, Git, GitHub"/>
 </div>
 
 ---
@@ -107,6 +140,14 @@ Ethical Hacking · Web Security · Network Security · Secure Development
 ---
 
 ## Featured Projects
+
+```text
+> SCANNING PROJECT SYSTEMS
+> ANALYZING ARCHITECTURES
+> RESOLVING DEPENDENCIES
+> LOADING ENGINEERING CASES
+> COMPLETE
+```
 
 ### PROJECT 01 — AI ENGINEERING INTELLIGENCE
 
@@ -137,29 +178,34 @@ Ethical Hacking · Web Security · Network Security · Secure Development
 | Field | Detail |
 |---|---|
 | Problem | Personal knowledge, skills, and engineering activity are scattered across tools with no unified system representing how they connect or evolve over time. |
-| Architecture | See diagram below. |
+| Architecture | See knowledge graph below. |
 | Technologies | `[ADD DATA]` |
 | Engineering challenge | Knowledge representation, modular architecture, and integrating an AI reflection layer over a personal knowledge graph. |
 | Current state | `[ADD DATA]` |
 | Repository | `[ADD_REPOSITORY_URL]` |
 
+<div align="center">
+
 ```text
-                  SVBG LABS
-                      │
-        ┌─────────────┼─────────────┐
-        ↓             ↓             ↓
-   Identity       Knowledge      Analytics
-        │             │             │
-        ↓             ↓             ↓
-   Dashboard     Knowledge      Insights
-                  Graph
-        │             │             │
-        └─────────────┼─────────────┘
-                      ↓
-                 AI Layer
-                      ↓
-                User Interface
+                  ● Identity
+                 /          \
+                ●            ●
+          Knowledge         Analytics
+               \              /
+                ●────────────●
+                       │
+                       ●
+                    AI Layer
+                       │
+                       ●
+                  Interface
 ```
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=8B949E&center=true&vCenter=true&width=560&height=26&lines=IDENTITY+%E2%86%92+KNOWLEDGE+%E2%86%92+ANALYTICS;%E2%86%92+AI+LAYER+%E2%86%92+INTERFACE" alt="Animated sequence showing the SVBG Labs data flow: Identity to Knowledge to Analytics to AI Layer to Interface"/>
+
+<sub><em>Conceptual knowledge graph — a signal moving from raw identity data through to the interface layer.</em></sub>
+
+</div>
 
 ### PROJECT 04 — 3D AUTOMOTIVE EXPERIENCE
 
@@ -171,6 +217,7 @@ Ethical Hacking · Web Security · Network Security · Secure Development
 | Engineering challenge | Scroll-driven camera choreography, exploded-view assembly rendering, and keeping real-time 3D performant in the browser. |
 | Current state | `[ADD DATA]` |
 | Repository | `[ADD_REPOSITORY_URL]` |
+| Preview | `[ADD_PREVIEW_MEDIA_URL]` — a short looping WebP/GIF of the camera pass and exploded view belongs here once exported. |
 
 ### PROJECT 05 — SNAKE ARCADE
 
@@ -205,6 +252,8 @@ Browser
    ↓
 React UI
    ↓
+●
+   ↓
 API
    ↓
 Business Logic
@@ -220,6 +269,8 @@ Application
  ↓
 AI Layer
  ↓
+●
+ ↓
 Context / Data
  ↓
 Processing
@@ -234,6 +285,8 @@ Raw Data
 Ingestion
  ↓
 Cleaning
+ ↓
+●
  ↓
 Transformation
  ↓
@@ -269,6 +322,8 @@ PROBLEM DEFINITION
  ↓
 SYSTEM DESIGN
  ↓
+●
+ ↓
 PROTOTYPE
  ↓
 IMPLEMENTATION
@@ -287,6 +342,8 @@ Projects here are treated as engineering experiments rather than coding assignme
 ---
 
 ## Problems Worth Solving
+
+`[ OPEN PROBLEMS — NOT YET SOLVED ]`
 
 ```text
 → How can personal knowledge be represented computationally?
@@ -343,14 +400,16 @@ Distributed systems · Cloud architecture · Advanced AI systems · Open-source 
 ┌───────────────────────────────────────────┐
 │ CURRENT ENGINEERING QUEUE                  │
 ├───────────────────────────────────────────┤
-│ [01] Advanced Web Systems (Next.js, TS)    │
-│ [02] AI Engineering                        │
-│ [03] Data Engineering                      │
-│ [04] Cybersecurity                         │
-│ [05] 3D Interactive Interfaces             │
-│ [06] Algorithms                            │
+│ [01] ● Advanced Web Systems (Next.js, TS)  │
+│ [02] ● AI Engineering                      │
+│ [03] ○ Data Engineering                    │
+│ [04] ○ Cybersecurity                       │
+│ [05] ● 3D Interactive Interfaces           │
+│ [06] ○ Algorithms                          │
 └───────────────────────────────────────────┘
 ```
+
+<sub>● / ○ are decorative priority markers, not a real-time progress tracker.</sub>
 
 ---
 
@@ -358,6 +417,10 @@ Distributed systems · Cloud architecture · Advanced AI systems · Open-source 
 <summary><strong>Open Engineering Learning Log</strong></summary>
 
 <br>
+
+```text
+$ cat engineering-learning.log
+```
 
 **Computer Science**
 - Data structures & algorithm design
@@ -389,17 +452,23 @@ Distributed systems · Cloud architecture · Advanced AI systems · Open-source 
 
 ## GitHub Analytics
 
+```text
+GITHUB ACTIVITY
+────────────────────────────
+CODE · COMMITS · REPOSITORIES · CONTRIBUTIONS
+```
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vbhargava0203-glitch&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbhargava0203-glitch&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vbhargava0203-glitch&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="Bhargava Vagathuri's GitHub statistics: repositories, stars, commits, and pull requests"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbhargava0203-glitch&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="30%" alt="Most-used programming languages across Bhargava Vagathuri's repositories"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vbhargava0203-glitch&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vbhargava0203-glitch&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="70%" alt="Bhargava Vagathuri's GitHub contribution streak"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vbhargava0203-glitch&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vbhargava0203-glitch&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&hide_border=true" width="90%" alt="Graph of Bhargava Vagathuri's GitHub contribution activity over time"/>
 </div>
 
 *Widgets are provided by third-party GitHub statistics services and reflect live public activity — no metric here is hand-entered.*
@@ -422,20 +491,23 @@ Interested in contributing to:
 ## Contact Terminal
 
 ```text
-$ connect bhargava
+$ ./connect --developer bhargava
 
-LinkedIn    → https://www.linkedin.com/in/bhargava-vagathuri202529/
-GitHub      → https://github.com/vbhargava0203-glitch
-Portfolio   → https://bhargavavagathuri.netlify.app/
-Email       → [ADD_EMAIL]
+[LINKEDIN]   → https://www.linkedin.com/in/bhargava-vagathuri202529/
+[GITHUB]     → https://github.com/vbhargava0203-glitch
+[PORTFOLIO]  → https://bhargavavagathuri.netlify.app/
+[EMAIL]      → [ADD_EMAIL]
 ```
 
 <div align="center">
 
 **BUILDING SYSTEMS.** **UNDERSTANDING SYSTEMS.** **IMPROVING SYSTEMS.**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f6feb,50:161b22,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%"/>
+─────────────── ● ───────────────
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f6feb,50:161b22,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%" alt="Footer banner closing the profile"/>
 
 <sub>© 2026 Bhargava Vagathuri</sub>
 
 </div>
+
