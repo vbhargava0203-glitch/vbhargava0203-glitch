@@ -1,30 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2afadf&height=260&section=header&text=BHARGAVA%20VAGATHURI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20Developer%20%E2%9A%94%EF%B8%8F%20Cybersecurity%20Enthusiast&descAlignY=52&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2afadf&height=260&section=header&text=BHARGAVA%20VAGATHURI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Full-Stack%20Developer%20%E2%9A%94%EF%B8%8F%20Cybersecurity%20Enthusiast&descAlignY=52&descSize=19" width="100%"/>
 
-</div>
-
-```bash
-$ whoami
-> bhargava_vagathuri
-
-$ cat mission.txt
-> "Building real-world software. Breaking things on purpose to make them unbreakable."
-
-$ ./initialize_profile.sh
-[ OK ] Loading full-stack toolchain ......... done
-[ OK ] Mounting cybersecurity mindset ........ done
-[ OK ] Establishing secure connection ........ done
-[ OK ] Access granted. Welcome.
-```
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <a href="https://www.linkedin.com/in/bhargava-vagathuri202529/">
   <img src="https://readme-typing-svg.demolab.com/?lines=%3E+root%40bhargava%3A~%23+access_granted;Full-Stack+Developer;Cybersecurity+Enthusiast;Breaking+code+is+fun%2C+securing+it+is+better;Always+Shipping+%E2%9A%A1&font=Fira+Code&center=true&width=720&height=50&color=2AFADF&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
 </a>
-
-<br/>
 
 <a href="https://bhargavavagathuri.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/bhargava-vagathuri202529/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -34,30 +16,69 @@ $ ./initialize_profile.sh
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vbhargava0203-glitch&style=for-the-badge&color=2afadf&labelColor=0d1117&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/vbhargava0203-glitch?style=for-the-badge&color=2afadf&labelColor=0d1117)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bhargavabuilds?style=for-the-badge&logo=twitter&color=2afadf&labelColor=0d1117)](https://twitter.com/bhargavabuilds)
+![Followers](https://img.shields.io/github/followers/vbhargava0203-glitch?style=for-the-badge&color=ff0080&labelColor=0d1117)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bhargavabuilds?style=for-the-badge&logo=twitter&color=7928ca&labelColor=0d1117)](https://twitter.com/bhargavabuilds)
 ![MIT License](https://img.shields.io/badge/License-MIT-2afadf?style=for-the-badge&labelColor=0d1117)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 </div>
 
+```bash
+┌──(bhargava㉿github)-[~]
+└─$ ./boot_sequence.sh
+
+[ OK ] Initializing kernel .......................... done
+[ OK ] Mounting /dev/full-stack ..................... done
+[ OK ] Mounting /dev/cybersecurity ................... done
+[ OK ] Loading AI/LLM modules ........................ done
+[ OK ] Establishing encrypted uplink ................. done
+[ OK ] Access granted. Welcome, operator.
+
+┌──(bhargava㉿github)-[~]
+└─$ whoami
+> full-stack developer | cybersecurity enthusiast | builder of real things
+
+┌──(bhargava㉿github)-[~]
+└─$ cat mission.txt
+> "Breaking code is fun. Securing it is even better."
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ### 🧬 `neofetch` — About Me
 
 ```text
 bhargava@github.dev
-────────────────────────────────────
+────────────────────────────────────────
 OS:            Full-Stack-Developer OS
 Host:          bhargavavagathuri.netlify.app
 Kernel:        Cybersecurity-Enthusiast 6.9-LTS
 Uptime:        since first commit
 Shell:         bash / zsh
-Building:      AI-Powered Full-Stack Portfolio Website
+Currently:     🔭 building an AI-Powered Full-Stack Portfolio Website
 Learning:      Next.js, TypeScript, Docker, AWS, Cybersecurity, AI/LLMs
 Collab:        Open Source Web Dev & AI Projects
 Ask me about:  JavaScript, React, Node.js, Cybersecurity, AI, Git & GitHub
 Fun fact:      Breaking code is fun, securing it is even better 🔐
 Contact:       linkedin.com/in/bhargava-vagathuri202529
+────────────────────────────────────────
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+### 🛰️ `nmap -sV opportunities.exe`
+
+```text
+Starting scan on target: CAREER_GROWTH
+PORT      STATE    SERVICE
+3000/tcp  open     react-frontend
+5000/tcp  open     node-backend
+5432/tcp  open     postgresql
+8501/tcp  open     streamlit-dashboard
+9999/tcp  open     cybersecurity-research
+
+Scan complete: 5 services open. Target is highly collaborative.
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -67,6 +88,20 @@ Contact:       linkedin.com/in/bhargava-vagathuri202529
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,py,swift,html,css,nextjs,nodejs,android,flutter,mongodb,mysql,azure,docker,git,github,vscode,linux,bash&theme=dark&perline=11" />
 </p>
+
+<div align="center">
+
+| Category | Stack |
+|---|---|
+| 🖥️ Languages | C · C++ · Java · JavaScript · PHP · Python · Swift |
+| 🎨 Frontend | HTML5 · CSS3 · Next.js · Bootstrap |
+| ⚙️ Backend | Node.js |
+| 📱 Mobile | Android · Flutter |
+| 🗄️ Databases | MongoDB · MySQL |
+| ☁️ Cloud & DevOps | Azure · Docker |
+| 🛡️ Systems | Linux · Bash · Git · GitHub |
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -142,11 +177,12 @@ Contact:       linkedin.com/in/bhargava-vagathuri202529
 </p>
 
 ```bash
-$ echo "connection closed. see you in the next commit."
+┌──(bhargava㉿github)-[~]
+└─$ echo "connection closed. see you in the next commit."
 > process exited (0)
 ```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2afadf,50:7928ca,100:ff0080&height=130&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2afadf,50:7928ca,100:ff0080&height=130&section=footer&animation=twinkling" width="100%"/>
   <sub>⭐ Star a repo if it helped you — every star keeps the servers warm.</sub>
 </div>
