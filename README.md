@@ -1,31 +1,34 @@
 <div align="center">
 
-# BHARGAVA VAGATHURI
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:1f6feb&height=190&section=header&text=BHARGAVA%20VAGATHURI&fontSize=38&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20Engineer&descAlignY=62&descSize=17&descColor=8b949e" width="100%"/>
 
-**COMPUTER SCIENCE ENGINEER**
-SOFTWARE · AI · DATA · SECURITY
-
-Engineering systems that turn ambiguous problems into working software — across the web, data, and security layers.
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2800&pause=1400&color=58A6FF&center=true&vCenter=true&width=680&height=32&lines=SOFTWARE+%C2%B7+AI+%C2%B7+DATA+%C2%B7+SECURITY;ENGINEERING+SYSTEMS%2C+NOT+JUST+FEATURES;DESIGN+%E2%86%92+BUILD+%E2%86%92+DEPLOY+%E2%86%92+OBSERVE" alt="tagline" />
 
 </div>
 
+<table align="center">
+<tr><td>
+
 ```text
-┌───────────────────────────────────────────────┐
-│ SYSTEM STATUS                                  │
-├───────────────────────────────────────────────┤
-│ ROLE        CSE STUDENT / BUILDER              │
-│ FOCUS       AI · WEB · DATA · SECURITY         │
-│ STATUS      BUILDING                           │
-│ LOCATION    INDIA                              │
-│ CURRENT     ENGINEERING MODE                   │
-└───────────────────────────────────────────────┘
+┌ SYSTEM STATUS ─────────────────────────────────┐
+  ROLE          CSE STUDENT / BUILDER
+  FOCUS         AI · WEB · DATA · SECURITY
+  STATUS        BUILDING
+  LOCATION      INDIA
+  CURRENT       ENGINEERING MODE
+└─────────────────────────────────────────────────┘
 ```
+
+</td></tr>
+</table>
 
 <div align="center">
 
-`[ IDENTITY ]` → `[ CAPABILITIES ]` → `[ PROJECTS ]` → `[ ARCHITECTURE ]` → `[ PROBLEMS ]` → `[ LEARNING ]` → `[ ACTIVITY ]` → `[ CONTACT ]`
+<sub>`IDENTITY` → `CAPABILITIES` → `PROJECTS` → `ARCHITECTURE` → `PROBLEMS` → `LEARNING` → `ACTIVITY` → `CONTACT`</sub>
 
 </div>
+
+<br>
 
 ---
 
@@ -427,22 +430,12 @@ Portfolio   → https://bhargavavagathuri.netlify.app/
 Email       → [ADD_EMAIL]
 ```
 
----
-
 <div align="center">
 
-**BUILDING SYSTEMS.**
-**UNDERSTANDING SYSTEMS.**
-**IMPROVING SYSTEMS.**
+**BUILDING SYSTEMS.** **UNDERSTANDING SYSTEMS.** **IMPROVING SYSTEMS.**
 
-© 2026 Bhargava Vagathuri
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f6feb,50:161b22,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%"/>
 
-</div>
+<sub>© 2026 Bhargava Vagathuri</sub>
 
-> process exited (0)
-```
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2afadf,50:7928ca,100:ff0080&height=130&section=footer&animation=twinkling" width="100%"/>
-  <sub>⭐ Star a repo if it helped you — every star keeps the servers warm.</sub>
 </div>
