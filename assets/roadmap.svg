@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
+  <title id="title">Learning directions roadmap</title>
+  <desc id="desc">Foundation leads to Systems, Intelligence, Security, and Advanced. These are learning directions, not expertise claims.</desc>
+  <style>
+    text{font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;fill:#c9d1d9;font-size:19px;text-anchor:middle}.base{stroke:#30363d;stroke-width:4}.progress{stroke:#58a6ff;stroke-width:4;stroke-dasharray:620;stroke-dashoffset:620;animation:draw 2.5s ease-out forwards}.point{fill:#0d1117;stroke:#a371f7;stroke-width:3}
+    @keyframes draw{to{stroke-dashoffset:0}}@media(prefers-reduced-motion:reduce){.progress{animation:none;stroke-dashoffset:0}}
+  </style>
+  <defs><filter id="glow" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <path class="base" d="M58 68H662"/><path class="progress" d="M58 68H662"/>
+  <circle class="point" cx="58" cy="68" r="10"/><circle class="point" cx="209" cy="68" r="10"/><circle class="point" cx="360" cy="68" r="10"/><circle class="point" cx="511" cy="68" r="10"/><circle class="point" cx="662" cy="68" r="10"/>
+  <text x="58" y="112">Foundation</text><text x="209" y="112">Systems</text><text x="360" y="112">Intelligence</text><text x="511" y="112">Security</text><text x="662" y="112">Advanced</text>
+  <text x="360" y="161" fill="#8b949e" font-size="15">LEARNING DIRECTIONS · NOT CLAIMS OF EXPERTISE</text>
+</svg>

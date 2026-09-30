@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 252" role="img" aria-labelledby="title desc">
+  <title id="title">BHARGAVA.OS boot sequence</title>
+  <desc id="desc">A terminal boots project, data, interface, and deployment systems, then displays System Ready.</desc>
+  <style>
+    text{font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:18px;fill:#c9d1d9}
+    .muted{fill:#8b949e}.ok{fill:#3fb950;font-weight:700}.line{opacity:0;animation:boot 5s steps(1,end) 1 both}
+    .l1{animation-delay:.25s}.l2{animation-delay:.85s}.l3{animation-delay:1.45s}.l4{animation-delay:2.05s}.l5{animation-delay:2.65s}.l6{animation-delay:3.25s}.ready{animation-delay:3.75s}
+    .cursor{animation:blink 1.1s steps(2,start) infinite}
+    @keyframes boot{0%,8%{opacity:0}9%,100%{opacity:1}}
+    @keyframes blink{to{opacity:0}}
+    @media(prefers-reduced-motion:reduce){.line{animation:none;opacity:1}.cursor{animation:none}}
+  </style>
+  <rect x="1" y="1" width="718" height="250" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M2 44h716" stroke="#30363d"/>
+  <circle cx="24" cy="23" r="6" fill="#f85149"/><circle cx="46" cy="23" r="6" fill="#d29922"/><circle cx="68" cy="23" r="6" fill="#3fb950"/>
+  <text x="94" y="29" class="muted">terminal · bhargava.os</text>
+  <text x="28" y="78" fill="#58a6ff">$ boot --profile bhargava.os</text>
+  <text class="line l1" x="28" y="108"><tspan class="ok">[ OK ]</tspan><tspan> identity loaded: Bhargava Vagathuri</tspan></text>
+  <text class="line l2" x="28" y="137"><tspan class="ok">[ OK ]</tspan><tspan> location loaded: Chennai, India</tspan></text>
+  <text class="line l3" x="28" y="166"><tspan class="ok">[ OK ]</tspan><tspan> systems online: AI · Web · Data · Security · 3D</tspan></text>
+  <text class="line l4" x="28" y="195"><tspan class="ok">[ OK ]</tspan><tspan> current mode: building · working from home</tspan></text>
+  <text class="line ready" x="28" y="228" fill="#39d0d8">[ SYSTEM READY ]<tspan class="cursor"> ▋</tspan></text>
+</svg>
