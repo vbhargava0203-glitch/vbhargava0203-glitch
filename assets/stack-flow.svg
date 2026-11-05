@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 156" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering stack flow</title>
+  <desc id="desc">A signal travels from Algorithm through Data, Backend, API, Interface, and Deployment to User.</desc>
+  <style>
+    text{font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:17px;fill:#c9d1d9;text-anchor:middle}.node{fill:#161b22;stroke:#30363d;stroke-width:1.5}.edge{stroke:#58a6ff;stroke-opacity:.45;stroke-width:2}.signal{fill:#39d0d8;filter:url(#glow);animation:travel 2.5s ease-in-out alternate infinite;offset-path:path('M52 78 H668')}
+    @keyframes travel{from{offset-distance:0%}to{offset-distance:100%}}
+    @media(prefers-reduced-motion:reduce){.signal{animation:none;offset-distance:50%}}
+  </style>
+  <defs><filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <path class="edge" d="M50 78H670"/>
+  <g><rect class="node" x="4" y="48" width="92" height="60" rx="13"/><text x="50" y="84">Algorithm</text></g>
+  <g><rect class="node" x="105" y="48" width="82" height="60" rx="13"/><text x="146" y="84">Data</text></g>
+  <g><rect class="node" x="196" y="48" width="100" height="60" rx="13"/><text x="246" y="84">Backend</text></g>
+  <g><rect class="node" x="305" y="48" width="70" height="60" rx="13"/><text x="340" y="84">API</text></g>
+  <g><rect class="node" x="384" y="48" width="104" height="60" rx="13"/><text x="436" y="84">Interface</text></g>
+  <g><rect class="node" x="497" y="48" width="112" height="60" rx="13"/><text x="553" y="84">Deploy</text></g>
+  <g><rect class="node" x="618" y="48" width="96" height="60" rx="13"/><text x="666" y="84">User</text></g>
+  <circle class="signal" r="6" cy="78"/>
+</svg>

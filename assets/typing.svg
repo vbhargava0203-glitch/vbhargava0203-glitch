@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 88" role="img" aria-labelledby="title desc">
+  <title id="title">BHARGAVA.OS focus areas</title>
+  <desc id="desc">Three lines cycle: Software, AI, Data, Security; Engineering Systems, Not Just Features; Design, Build, Deploy, Observe.</desc>
+  <defs>
+    <linearGradient id="ink" x1="0" x2="1">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:27px;font-weight:600;fill:url(#ink);text-anchor:middle}
+    .phrase{opacity:0;clip-path:inset(0 100% 0 0);animation:cycle 6s steps(24,end) infinite}
+    .p2{animation-delay:2s}.p3{animation-delay:4s}
+    @keyframes cycle{0%,4%{opacity:0;clip-path:inset(0 100% 0 0)}10%{opacity:1;clip-path:inset(0 100% 0 0)}28%{opacity:1;clip-path:inset(0 0 0 0)}34%,100%{opacity:0;clip-path:inset(0 0 0 0)}}
+    @media(prefers-reduced-motion:reduce){.phrase{animation:none;opacity:0;clip-path:inset(0 0 0 0)}.p1{opacity:1}}
+  </style>
+  <text class="phrase p1" x="360" y="52">Software · AI · Data · Security</text>
+  <text class="phrase p2" x="360" y="52">Engineering Systems, Not Just Features</text>
+  <text class="phrase p3" x="360" y="52">Design → Build → Deploy → Observe</text>
+</svg>

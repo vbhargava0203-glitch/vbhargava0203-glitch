@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">SVBG Labs knowledge graph</title>
+  <desc id="desc">Five connected nodes: Identity, Knowledge, Analytics, AI Layer, and Interface. Dashed connections and nodes pulse gently.</desc>
+  <style>
+    text{font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:17px;font-weight:600;fill:#c9d1d9;text-anchor:middle}.panel{fill:#0d1117;stroke:#30363d;stroke-width:2}.node{fill:#161b22;stroke:#58a6ff;stroke-width:2}.edge{fill:none;stroke:#39d0d8;stroke-width:2;stroke-dasharray:7 9;animation:flow 5s linear infinite}.n1{animation:pulse 3.2s ease-in-out infinite}.n2{animation:pulse 3.2s ease-in-out 0.5s infinite}.n3{animation:pulse 3.2s ease-in-out 1s infinite}.n4{animation:pulse 3.2s ease-in-out 1.5s infinite}.n5{animation:pulse 3.2s ease-in-out 2s infinite}
+    @keyframes flow{to{stroke-dashoffset:-64}}@keyframes pulse{50%{stroke:#a371f7;filter:url(#glow)}}@media(prefers-reduced-motion:reduce){.edge,.node{animation:none}}
+  </style>
+  <defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect class="panel" x="1" y="1" width="718" height="298" rx="20"/>
+  <path class="edge" d="M360 72L178 145L270 236L452 236L542 145Z M178 145L542 145 M360 72L452 236 M360 72L270 236"/>
+  <g class="node n1"><circle cx="360" cy="68" r="46"/><text x="360" y="75">Identity</text></g>
+  <g class="node n2"><circle cx="174" cy="145" r="52"/><text x="174" y="152">Knowledge</text></g>
+  <g class="node n3"><circle cx="546" cy="145" r="52"/><text x="546" y="152">Analytics</text></g>
+  <g class="node n4"><circle cx="270" cy="238" r="50"/><text x="270" y="245">AI Layer</text></g>
+  <g class="node n5"><circle cx="452" cy="238" r="52"/><text x="452" y="245">Interface</text></g>
+</svg>

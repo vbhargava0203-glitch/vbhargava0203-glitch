@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-labelledby="title desc">
+  <title id="title">3D Automotive Experience preview placeholder</title>
+  <desc id="desc">A gently moving cyan and violet wireframe sports car marks where a project recording can be added.</desc>
+  <style>
+    text{font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;fill:#8b949e;font-size:18px;letter-spacing:2px}.car{transform-box:fill-box;transform-origin:center;animation:float 5s ease-in-out infinite}.wheel{transform-box:fill-box;transform-origin:center;animation:spin 6s linear infinite}.glow{stroke:#39d0d8;filter:url(#glow)}
+    @keyframes float{50%{transform:translateY(-7px) rotate(-1deg)}}@keyframes spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.car,.wheel{animation:none}}
+  </style>
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient><filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="1" y="1" width="718" height="328" rx="20" fill="url(#sky)" stroke="#30363d" stroke-width="2"/>
+  <path d="M78 259H642" stroke="#30363d" stroke-dasharray="5 10"/><path d="M360 46v198" stroke="#30363d" stroke-dasharray="3 9"/>
+  <g class="car" fill="none" stroke-width="2.5" stroke-linejoin="round">
+    <path class="glow" d="M125 224l48-54 93-18 78-51 110 15 69 69 60 20 13 32H126z"/>
+    <path d="M173 170l109 4 62-61 96 12 67 58-334-13z" stroke="#a371f7"/>
+    <path d="M281 174l-15 50m79-111l10 61m85-49l-8 52m68-38l-14 42M126 224l173 2 110-9 184 8" stroke="#58a6ff"/>
+    <circle cx="224" cy="228" r="31" stroke="#39d0d8"/><circle cx="224" cy="228" r="15" stroke="#a371f7"/>
+    <circle cx="510" cy="228" r="31" stroke="#39d0d8"/><circle cx="510" cy="228" r="15" stroke="#a371f7"/>
+    <g class="wheel" stroke="#58a6ff"><path d="M224 199v58m-29-29h58m-49-20l41 41m0-41l-41 41M510 199v58m-29-29h58m-49-20l41 41m0-41l-41 41"/></g>
+  </g>
+  <text x="28" y="38">PREVIEW PLACEHOLDER · REPLACE WITH PROJECT CAPTURE</text>
+</svg>
